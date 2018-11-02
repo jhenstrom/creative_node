@@ -1,0 +1,641 @@
+nohup: ignoring input
+[0mGET / [36m304 [0m9.378 ms - -[0m
+[0mGET /Weather.js [36m304 [0m2.509 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m3.024 ms - -[0m
+[0mGET /stylesheets/wood.jpg [36m304 [0m0.799 ms - -[0m
+[0mGET / [36m304 [0m0.986 ms - -[0m
+[0mGET /Weather.js [36m304 [0m0.512 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.722 ms - -[0m
+[0mGET /stylesheets/wood.jpg [36m304 [0m0.310 ms - -[0m
+[0mGET / [36m304 [0m1.281 ms - -[0m
+[0mGET /Weather.js [36m304 [0m0.489 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.492 ms - -[0m
+[0mGET /stylesheets/wood.jpg [36m304 [0m0.290 ms - -[0m
+[0mGET / [36m304 [0m0.472 ms - -[0m
+[0mGET /Weather.js [36m304 [0m0.322 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.521 ms - -[0m
+[0mGET /stylesheets/wood.jpg [36m304 [0m0.303 ms - -[0m
+In getcity route
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m12.198 ms - -[0m
+In getcity route
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m2.828 ms - -[0m
+In getcity route
+/^Pr/
+Price
+Providence
+Provo
+Price
+Providence
+Provo
+[ { city: 'Price' }, { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pr [36m304 [0m1.098 ms - -[0m
+In getcity route
+/^Pro/
+Providence
+Provo
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [36m304 [0m1.275 ms - -[0m
+In getcity route
+/^Prov/
+Providence
+Provo
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Prov [36m304 [0m2.076 ms - -[0m
+In getcity route
+/^Provo/
+Provo
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [36m304 [0m4.037 ms - -[0m
+In politics
+owl
+[0mGET /dictionary?q=owl [32m200 [0m229.281 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m138.651 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m165.573 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m136.492 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m149.720 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m390.233 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m158.952 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m187.251 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m159.700 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m141.875 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m159.921 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m151.805 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m133.924 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m139.604 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m140.653 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m164.916 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m139.028 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m135.996 ms - -[0m
+In politics
+player
+[0mGET /dictionary?q=player [32m200 [0m114.026 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m140.605 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m201.014 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m139.514 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m116.604 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m140.832 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m134.709 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m135.367 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m154.056 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m137.292 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m110.134 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m131.720 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m131.760 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m142.952 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m153.614 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m137.416 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m105.797 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m131.270 ms - -[0m
+In politics
+animal
+[0mGET /dictionary?q=animal [32m200 [0m104.265 ms - -[0m
+[0mGET / [36m304 [0m0.979 ms - -[0m
+[0mGET /Weather.js [36m304 [0m0.361 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.331 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m8.904 ms - 1036[0m
+[0mGET /stylesheets/wood.jpg [36m304 [0m0.249 ms - -[0m
+In getcity route
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m2.726 ms - -[0m
+In getcity route
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m6.190 ms - -[0m
+In getcity route
+/^Pr/
+Price
+Providence
+Provo
+Price
+Providence
+Provo
+[ { city: 'Price' }, { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pr [36m304 [0m1.120 ms - -[0m
+In getcity route
+/^Pro/
+Providence
+Provo
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [36m304 [0m1.112 ms - -[0m
+In getcity route
+/^Prov/
+Providence
+Provo
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Prov [36m304 [0m1.538 ms - -[0m
+In getcity route
+/^Provo/
+Provo
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [36m304 [0m1.115 ms - -[0m
+In politics
+owl
+[0mGET /dictionary?q=owl [32m200 [0m187.844 ms - -[0m
+[0mGET / [36m304 [0m0.513 ms - -[0m
+[0mGET /Weather.js [36m304 [0m0.285 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.299 ms - -[0m
+[0mGET /stylesheets/wood.jpg [36m304 [0m1.120 ms - -[0m
+[0mGET / [32m200 [0m2.833 ms - 1142[0m
+[0mGET /Weather.js [32m200 [0m1.299 ms - 3990[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.508 ms - 1415[0m
+[0mGET /stylesheets/wood.jpg [32m200 [0m1.483 ms - 4919705[0m
+[0mGET / [36m304 [0m0.910 ms - -[0m
+[0mGET /Weather.js [36m304 [0m0.516 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.817 ms - -[0m
+[0mGET /stylesheets/wood.jpg [36m304 [0m0.316 ms - -[0m
+[0mGET / [32m200 [0m0.672 ms - 1142[0m
+[0mGET /Weather.js [32m200 [0m2.149 ms - 3990[0m
+[0mGET /stylesheets/style.css [32m200 [0m2.233 ms - 1415[0m
+[0mGET /favicon.ico [33m404 [0m1.186 ms - 1036[0m
+[0mGET /stylesheets/wood.jpg [32m200 [0m1.417 ms - 4919705[0m
+In getcity route
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [32m200 [0m1.347 ms - 304[0m
+In getcity route
+/^Pr/
+Price
+Providence
+Provo
+Price
+Providence
+Provo
+[ { city: 'Price' }, { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pr [32m200 [0m3.121 ms - 57[0m
+In getcity route
+/^Pro/
+Providence
+Provo
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [32m200 [0m1.422 ms - 40[0m
+In getcity route
+/^Prov/
+Providence
+Provo
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Prov [32m200 [0m1.337 ms - 40[0m
+In getcity route
+/^Provo/
+Provo
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [32m200 [0m1.145 ms - 18[0m
+In politics
+owl
+[0mGET /dictionary?q=owl [32m200 [0m276.809 ms - -[0m
+[0mGET / [36m304 [0m0.990 ms - -[0m
+[0mGET /Weather.js [36m304 [0m0.469 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.239 ms - -[0m
+[0mGET /stylesheets/wood.jpg [36m304 [0m0.351 ms - -[0m
+[0mGET / [32m200 [0m1.904 ms - 1142[0m
+[0mGET /Weather.js [32m200 [0m0.953 ms - 3990[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.597 ms - 1415[0m
+In getcity route
+/^L/
+La Sal
+La Verkin
+Lake Powell
+Laketown
+Lapoint
+Layton
+Leamington
+Leeds
+Lehi
+Levan
+Lewiston
+Lindon
+Loa
+Logan
+Lyman
+Lynndyl
+La Sal
+La Verkin
+Lake Powell
+Laketown
+Lapoint
+Layton
+Leamington
+Leeds
+Lehi
+Levan
+Lewiston
+Lindon
+Loa
+Logan
+Lyman
+Lynndyl
+[ { city: 'La Sal' },
+  { city: 'La Verkin' },
+  { city: 'Lake Powell' },
+  { city: 'Laketown' },
+  { city: 'Lapoint' },
+  { city: 'Layton' },
+  { city: 'Leamington' },
+  { city: 'Leeds' },
+  { city: 'Lehi' },
+  { city: 'Levan' },
+  { city: 'Lewiston' },
+  { city: 'Lindon' },
+  { city: 'Loa' },
+  { city: 'Logan' },
+  { city: 'Lyman' },
+  { city: 'Lynndyl' } ]
+[0mGET /getcity?q=L [32m200 [0m3.255 ms - 298[0m
+In getcity route
+/^L/
+La Sal
+La Verkin
+Lake Powell
+Laketown
+Lapoint
+Layton
+Leamington
+Leeds
+Lehi
+Levan
+Lewiston
+Lindon
+Loa
+Logan
+Lyman
+Lynndyl
+La Sal
+La Verkin
+Lake Powell
+Laketown
+Lapoint
+Layton
+Leamington
+Leeds
+Lehi
+Levan
+Lewiston
+Lindon
+Loa
+Logan
+Lyman
+Lynndyl
+[ { city: 'La Sal' },
+  { city: 'La Verkin' },
+  { city: 'Lake Powell' },
+  { city: 'Laketown' },
+  { city: 'Lapoint' },
+  { city: 'Layton' },
+  { city: 'Leamington' },
+  { city: 'Leeds' },
+  { city: 'Lehi' },
+  { city: 'Levan' },
+  { city: 'Lewiston' },
+  { city: 'Lindon' },
+  { city: 'Loa' },
+  { city: 'Logan' },
+  { city: 'Lyman' },
+  { city: 'Lynndyl' } ]
+[0mGET /getcity?q=L [36m304 [0m6.460 ms - -[0m
+In getcity route
+/^Le/
+In getcity route
+/^Lehi/
+Leamington
+Leeds
+Lehi
+Levan
+Lewiston
+Leamington
+Leeds
+Lehi
+Levan
+Lewiston
+[ { city: 'Leamington' },
+  { city: 'Leeds' },
+  { city: 'Lehi' },
+  { city: 'Levan' },
+  { city: 'Lewiston' } ]
+[0mGET /getcity?q=Le [32m200 [0m7.201 ms - 93[0m
+Lehi
+Lehi
+[ { city: 'Lehi' } ]
+[0mGET /getcity?q=Lehi [32m200 [0m2.487 ms - 17[0m
+In getcity route
+/^Lehi/
+In getcity route
+/^Lehi/
+Lehi
+Lehi
+[ { city: 'Lehi' } ]
+[0mGET /getcity?q=Lehi [32m200 [0m1.482 ms - 17[0m
+Lehi
+Lehi
+[ { city: 'Lehi' } ]
+[0mGET /getcity?q=Lehi [32m200 [0m1.555 ms - 17[0m
+In politics
+cat
+[0mGET /dictionary?q=cat [32m200 [0m169.695 ms - -[0m
+[0mGET /stylesheets/wood.jpg [32m200 [0m0.678 ms - 4919705[0m
